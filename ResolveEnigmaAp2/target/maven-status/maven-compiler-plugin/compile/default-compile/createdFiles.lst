@@ -1,0 +1,14 @@
+co/com/camargo/microservice/resolveEnigmaApi/model/JsonApiBodyResponseSuccess.class
+co/com/camargo/microservice/resolveEnigmaApi/model/Header.class
+co/com/camargo/microservice/resolveEnigmaApi/api/ApiOriginFilter.class
+co/com/camargo/microservice/resolveEnigmaApi/api/NotFoundException.class
+co/com/camargo/microservice/resolveEnigmaApi/Swagger2SpringBoot.class
+co/com/camargo/microservice/resolveEnigmaApi/api/ApiResponseMessage.class
+co/com/camargo/microservice/resolveEnigmaApi/model/GetEnigmaStepResponse.class
+co/com/camargo/microservice/resolveEnigmaApi/model/GetEnigmaRequest.class
+co/com/camargo/microservice/resolveEnigmaApi/model/JsonApiBodyResponseErrors.class
+co/com/camargo/microservice/resolveEnigmaApi/model/ErrorDetail.class
+co/com/camargo/microservice/resolveEnigmaApi/api/GetStepApi.class
+co/com/camargo/microservice/resolveEnigmaApi/api/GetStepApiController.class
+co/com/camargo/microservice/resolveEnigmaApi/api/ApiException.class
+co/com/camargo/microservice/resolveEnigmaApi/model/JsonApiBodyRequest.class

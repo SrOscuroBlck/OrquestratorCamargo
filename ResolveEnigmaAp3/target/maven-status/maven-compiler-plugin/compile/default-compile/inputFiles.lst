@@ -1,0 +1,14 @@
+/Users/sroscuro/IdeaProjects/universidad/ResolveEnigmaAp/src/main/java/co/com/camargo/microservice/resolveEnigmaApi/api/ApiResponseMessage.java
+/Users/sroscuro/IdeaProjects/universidad/ResolveEnigmaAp/src/main/java/co/com/camargo/microservice/resolveEnigmaApi/Swagger2SpringBoot.java
+/Users/sroscuro/IdeaProjects/universidad/ResolveEnigmaAp/src/main/java/co/com/camargo/microservice/resolveEnigmaApi/model/JsonApiBodyRequest.java
+/Users/sroscuro/IdeaProjects/universidad/ResolveEnigmaAp/src/main/java/co/com/camargo/microservice/resolveEnigmaApi/api/NotFoundException.java
+/Users/sroscuro/IdeaProjects/universidad/ResolveEnigmaAp/src/main/java/co/com/camargo/microservice/resolveEnigmaApi/api/ApiOriginFilter.java
+/Users/sroscuro/IdeaProjects/universidad/ResolveEnigmaAp/src/main/java/co/com/camargo/microservice/resolveEnigmaApi/api/GetStepApi.java
+/Users/sroscuro/IdeaProjects/universidad/ResolveEnigmaAp/src/main/java/co/com/camargo/microservice/resolveEnigmaApi/model/JsonApiBodyResponseSuccess.java
+/Users/sroscuro/IdeaProjects/universidad/ResolveEnigmaAp/src/main/java/co/com/camargo/microservice/resolveEnigmaApi/api/ApiException.java
+/Users/sroscuro/IdeaProjects/universidad/ResolveEnigmaAp/src/main/java/co/com/camargo/microservice/resolveEnigmaApi/model/GetEnigmaStepResponse.java
+/Users/sroscuro/IdeaProjects/universidad/ResolveEnigmaAp/src/main/java/co/com/camargo/microservice/resolveEnigmaApi/model/JsonApiBodyResponseErrors.java
+/Users/sroscuro/IdeaProjects/universidad/ResolveEnigmaAp/src/main/java/co/com/camargo/microservice/resolveEnigmaApi/model/Header.java
+/Users/sroscuro/IdeaProjects/universidad/ResolveEnigmaAp/src/main/java/co/com/camargo/microservice/resolveEnigmaApi/api/GetStepApiController.java
+/Users/sroscuro/IdeaProjects/universidad/ResolveEnigmaAp/src/main/java/co/com/camargo/microservice/resolveEnigmaApi/model/ErrorDetail.java
+/Users/sroscuro/IdeaProjects/universidad/ResolveEnigmaAp/src/main/java/co/com/camargo/microservice/resolveEnigmaApi/model/GetEnigmaRequest.java
